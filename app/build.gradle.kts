@@ -66,4 +66,5 @@ dependencies {
     implementation(libs.androidx.activity.ktx)
 
     implementation(libs.kotlinx.serialization.json)
+    implementation(libs.androidx.lifecycle.viewmodel.compose)
 }
